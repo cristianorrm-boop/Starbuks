@@ -1,7 +1,7 @@
 <h1>Starbuks</h1>
 <br>
 <br>
-<h2>Projeto feito durante o evento PROGRAMAÇÃO DO ZERO, que foi realizado entre 09/09/2025 a 14/09/2025 pelo @rodolfomorii</h2>
+<h2>Projeto feito durante o evento "O Mapa Definitivo: DO Zero ao seu primeiro emprego na Programação", que foi realizado entre 09/09/2025 a 14/09/2025 pelo @rodolfomorii</h2>
 <h2>Tecnologias Utilizadas</h2>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
